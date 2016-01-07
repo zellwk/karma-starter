@@ -11,3 +11,4 @@ Test files are written in `test/**/*.js`.
 run `npm run test` to test with Chrome. 
 
 [![Sauce Test Status](https://saucelabs.com/buildstatus/zellwk)](https://saucelabs.com/u/zellwk)
+[![Sauce Test Status](https://saucelabs.com/browser-matrix/zellwk.svg)](https://saucelabs.com/u/zellwk)
